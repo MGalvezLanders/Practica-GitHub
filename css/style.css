@@ -3,3 +3,8 @@
     border: 0;
     box-sizing: border-box;
 }
+header{
+    display: flex;
+    justify-content: center;
+    background-color: hsl(0, 5%, 84%);
+}
